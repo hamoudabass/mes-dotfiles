@@ -1,0 +1,9 @@
+# Police
+font_family      JetBrains Mono
+font_size        13.0
+
+# Transparence
+background_opacity 0.95
+
+# Thème de couleurs
+include themes/Dracula.conf
